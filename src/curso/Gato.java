@@ -7,7 +7,7 @@ public class Gato extends Animal{
 	@Override
 	public String HacerRuido() {
 		// TODO Auto-generated method stub
-		return "Miauu";
+		return "Miaoo";
 	}
 
 }
